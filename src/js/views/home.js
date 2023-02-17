@@ -11,6 +11,6 @@ export const Home = () => (
 		<h2 className="text-light py-4">Planetas</h2>
 		    <Planets />
 		<h2 className="text-light py-4">Vehiculos</h2>
-		    <Planets />
+		    <Aircrafts />
 	</div>
 );
